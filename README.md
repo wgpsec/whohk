@@ -1,5 +1,5 @@
 # whohk
-whohk linux下一款强大的应急响应工具
+whohk，linux下一款强大的应急响应工具
 
 暂不开源，release版本下载请看右侧的Release
 
