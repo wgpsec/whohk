@@ -2,8 +2,8 @@
 
 whohk，linux下一款强大的应急响应工具
 
-<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/golang-1.6+-9cf"></a>
-<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/dismap-0.3-ff69b4"></a>
+<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/python-3.x+-9cf"></a>
+<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/whohk-1.1-ff69b4"></a>
 <a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
 ![GitHub Repo stars](https://img.shields.io/github/stars/heikanet/whohk?color=success)
 ![GitHub forks](https://img.shields.io/github/forks/heikanet/whohk)
