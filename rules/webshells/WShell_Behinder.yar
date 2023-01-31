@@ -6,7 +6,7 @@ rule Behinder_aspx {
       date = "2021-08-26"
       hash1 = "224c7f43f72938e44b4f164c1c899c398a9c099a92c6d084856f5e227761e3b0"
    strings:
-      $x1 = "<%@ Page Language=\"C#\" %><%@Import Namespace=\"System.Reflection\"%><%Session.Add(\"k\",; ascii
+      $x1 = "<%@ Page Language=\"C#\" %><%@Import Namespace=\"System.Reflection\"%><%Session.Add(\"k\",;" ascii
       $s3 = "ssion[0] + \"\"),c = Request.BinaryRead(Request.ContentLength);Assembly.Load(new System.Security.Cryptography.RijndaelManaged()." ascii
       $s4 = "eateDecryptor(k, k).TransformFinalBlock(c, 0, c.Length)).CreateInstance(\"U\").Equals(this);%>" fullword ascii
    condition:
