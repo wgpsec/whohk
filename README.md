@@ -2,12 +2,12 @@
 
 whohk，linux下一款强大的应急响应工具
 
-<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/python-3.x-9cf"></a>
-<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/whohk-1.1-ff69b4"></a>
-<a href="https://github.com/heikanet/whohk"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
-![GitHub Repo stars](https://img.shields.io/github/stars/heikanet/whohk?color=success)
-![GitHub forks](https://img.shields.io/github/forks/heikanet/whohk)
-![GitHub all release](https://img.shields.io/github/downloads/heikanet/whohk/total?color=blueviolet)  
+<a href="https://github.com/ssrsec/whohk"><img alt="Release" src="https://img.shields.io/badge/python-3.x-9cf"></a>
+<a href="https://github.com/ssrsec/whohk"><img alt="Release" src="https://img.shields.io/badge/whohk-1.1-ff69b4"></a>
+<a href="https://github.com/ssrsec/whohk"><img alt="Release" src="https://img.shields.io/badge/LICENSE-GPL-important"></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/ssrsec/whohk?color=success)
+![GitHub forks](https://img.shields.io/github/forks/ssrsec/whohk)
+![GitHub all release](https://img.shields.io/github/downloads/ssrsec/whohk/total?color=blueviolet)  
 
 在linux下的应急响应往往需要通过繁琐的命令行来查看各个点的情况，有的时候还需要做一些格式处理，这对于linux下命令不是很熟悉的人比较不友好。本工具将linux下应急响应中常用的一些操作给集合了起来，并处理成了较为友好的格式，只需要通过一个参数就能代替繁琐复杂的命令来实现对各个点的检查。
 
